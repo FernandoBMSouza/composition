@@ -1,6 +1,6 @@
 namespace Project.Entities
 {
-    public class Department
+    class Department
     {
         public string Name { get; set; }
 
